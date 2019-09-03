@@ -9,7 +9,6 @@ end
 def add_element_to_end_of_array(array, element)
   music = ["pop", "edm", "rock", "dance"]
   music.push ("rap")
-  p music
 end
 
 def add_element_to_start_of_array(array, element)
