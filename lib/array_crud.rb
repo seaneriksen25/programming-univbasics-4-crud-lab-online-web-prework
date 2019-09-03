@@ -1,13 +1,13 @@
 def create_an_empty_array
-  music = []
+  a = []
 end
 
 def create_an_array
-  music = ["pop", "edm", "rock", "dance"]
+  a = ["pop", "edm", "rock", "dance"]
 end
 
 def add_element_to_end_of_array(array, element)
- array << "name"
+ a << "name"
   end
 
 def add_element_to_start_of_array(array, element)
