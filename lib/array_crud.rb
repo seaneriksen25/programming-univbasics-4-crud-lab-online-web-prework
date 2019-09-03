@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   music = ["pop", "edm", "rock", "dance"]
-  dance.
+  dance=music.pop
 end
 
 def remove_element_from_start_of_array(array)
