@@ -6,7 +6,9 @@ def create_an_array
   a = ["pop", "edm", "rock", "dance"]
 end
 
-
+def add_element_to_end_of_array(array, element)
+  << "name"
+  end
 
 def add_element_to_start_of_array(array, element)
   add_element_to_start_of_array.unshift("variable")
