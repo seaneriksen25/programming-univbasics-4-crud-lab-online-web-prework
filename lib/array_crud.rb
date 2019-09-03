@@ -1,19 +1,19 @@
 def create_an_empty_array
-  music = []
+  music_array = []
 end
 
 def create_an_array
-  music = ["pop", "edm", "rock", "dance"]
+  music_array = ["pop", "edm", "rock", "dance"]
 end
 
 def add_element_to_end_of_array(array, element)
-  music = ["pop", "edm", "rock", "dance"]
-  music.push ("rap")
+  music_array = ["pop", "edm", "rock", "dance"]
+  music_array << "rap"
 end
 
 def add_element_to_start_of_array(array, element)
-  music = ["pop", "edm", "rock", "dance"]
-  music.unshift("rap")
+  music_array = ["pop", "edm", "rock", "dance"]
+  music_array.unshift("rap")
 end
 
 def remove_element_from_end_of_array(array)
