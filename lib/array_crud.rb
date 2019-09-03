@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 music = ["pop", "edm", "rock", "dance"]
-
+music
 end
